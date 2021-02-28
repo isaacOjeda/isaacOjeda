@@ -9,9 +9,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
-![Isaac's github stats](https://github-readme-stats.vercel.app/api/?username=isaacOjeda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacOjeda&hide=TeX&layout=compact)
+![Isaac's github stats](https://github-readme-stats.vercel.app/api/?username=isaacOjeda&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacOjeda&hide=TeX&layout=compact&theme=dracula)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaacOjeda&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **isaacOjeda/isaacOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
