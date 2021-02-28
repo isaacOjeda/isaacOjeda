@@ -2,14 +2,12 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![C#](https://img.shields.io/badge/.NET-612078?style=flat-square&logo=c-sharp)
+![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-8045C5?style=flat-square&logo=.net)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 
-![Isaac's github stats](https://github-readme-stats.vercel.app/api/?username=isaacOjeda&theme=dracula)
+![Isaac's github stats](https://github-readme-stats.vercel.app/api/?username=isaacOjeda&theme=dracula&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacOjeda&hide=TeX&layout=compact&theme=dracula)
 
