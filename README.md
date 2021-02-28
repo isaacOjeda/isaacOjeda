@@ -2,8 +2,8 @@
 
 ## ⚡ Technologies
 
-![C#](https://img.shields.io/badge/.NET-612078?style=flat-square&logo=c-sharp)
-![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-8045C5?style=flat-square&logo=.net)
+![C#](https://img.shields.io/badge/.NET-612078?style=flat-square&logo=.net)
+![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-8045C5?style=flat-square&logo=visual%20studio)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-232F7E?style=flat-square&logo=microsoft-azure)
