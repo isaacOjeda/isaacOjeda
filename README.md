@@ -11,6 +11,9 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaacOjeda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://app.daily.dev/isaacOjeda"><img src="https://api.daily.dev/devcards/d2e131650770458190b510d46e9448d4.png?r=uow" width="400" alt="Isaac Ojeda's Dev Card"/></a>
+
 <!--
 **isaacOjeda/isaacOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
