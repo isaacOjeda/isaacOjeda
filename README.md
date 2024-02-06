@@ -1,6 +1,6 @@
 # ✨ About Me:
 
-Hi there, I'm a *.NET Technical Lead & Architect.*
+.NET Technical Lead & Architect.
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/.NET-612078?style=flat-square&logo=.net)
